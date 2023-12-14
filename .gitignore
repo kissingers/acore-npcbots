@@ -91,3 +91,5 @@ local.properties
 #  !modules/yourmodule
 #
 # ==================
+/.vs
+/out/build/x64-Debug
